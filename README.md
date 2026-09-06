@@ -1,4 +1,4 @@
-# Match State xG Analysis & Wingback Scouting Methodology ⚽📊
+# Match State xG Analysis & Wingback Scouting Methodology 
 
 This repository contains an analytical project focused on processing StatsBomb event data to evaluate team performance contexts and establish a scouting framework for a wingback position. 
 
