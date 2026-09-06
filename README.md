@@ -2,7 +2,7 @@
 
 This repository contains an analytical project focused on processing StatsBomb event data to evaluate team performance contexts and establish a scouting framework for a wingback position. 
 
-Projekt zrealizowany w ramach zadań analitycznych (Pogoń Grodzisk Mazowiecki vs Polonia Bytom), obejmujący czyszczenie danych, inżynierię cech oraz raportowanie taktyczne.
+Projekt zrealizowany w ramach zadań analitycznych (Polonia Bytom vs Pogoń Grodzisk Mazowiecki), obejmujący czyszczenie danych, inżynierię cech oraz raportowanie taktyczne.
 
 ##  Tech Stack
 * **Python** (Pandas)
